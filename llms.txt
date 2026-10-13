@@ -1,0 +1,13 @@
+# Lumos
+
+> Make Data Your Best Performing Channel
+
+Lumos is an organisation.
+
+## Pages
+
+- [Lumos | Make Data Your Best Performing Channel](https://om-javheri.github.io/lumos/): Lumos is a unified, omni-channel audience intelligence platform: build audience segments and insights, plan across every channel, and prove audience measurement, attribution and ROI — powered by first-party and behavioural data, across Australia, New Zealand, Singapore, Malaysia and beyond.
+- [Capabilities | Lumos](https://om-javheri.github.io/lumos/capabilities/): Lumos is a unified, omni-channel audience intelligence platform: build audience segments and insights, plan across every channel, and prove audience measurement, attribution and ROI — powered by first-party and behavioural data, across Australia, New Zealand, Singapore, Malaysia and beyond.
+- [Platform | Lumos](https://om-javheri.github.io/lumos/platform/): Lumos is a unified, omni-channel audience intelligence platform: build audience segments and insights, plan across every channel, and prove audience measurement, attribution and ROI — powered by first-party and behavioural data, across Australia, New Zealand, Singapore, Malaysia and beyond.
+- [Resources | Lumos](https://om-javheri.github.io/lumos/resources/): Lumos is a unified, omni-channel audience intelligence platform: build audience segments and insights, plan across every channel, and prove audience measurement, attribution and ROI — powered by first-party and behavioural data, across Australia, New Zealand, Singapore, Malaysia and beyond.
+- [Pricing | Lumos](https://om-javheri.github.io/lumos/pricing/): Lumos is a unified, omni-channel audience intelligence platform: build audience segments and insights, plan across every channel, and prove audience measurement, attribution and ROI — powered by first-party and behavioural data, across Australia, New Zealand, Singapore, Malaysia and beyond.
